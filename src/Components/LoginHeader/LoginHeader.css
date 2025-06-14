@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#loginHeader {
+    height: 10vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+}
+
+#loginHeader img {
+    padding-left: 5vw;
+}

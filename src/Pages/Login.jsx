@@ -1,5 +1,5 @@
-import LoginBody from "../Components/LoginBody"
-import LoginHeader from "../Components/LoginHeader"
+import LoginBody from "../Components/LoginBody/LoginBody"
+import LoginHeader from "../Components/LoginHeader/LoginHeader"
 
 function Login() {
 
